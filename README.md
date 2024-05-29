@@ -7,6 +7,6 @@
 # 技术栈
 [![My Skills](https://skillicons.dev/icons?i=react,vue&perline=3)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,c,java,nodejs)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=git,vim,webpack)](https://skillicons.dev)
